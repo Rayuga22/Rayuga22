@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Rayuga22
-- 👀 I’m interested in computer programming languages , gaming and stuff. 
-- 🌱 I’m currently learning engineering in electrical department. 
+- 👀 I’m interested in computer programming languages,game devlopment,app development,web development and solidity. 
+- 🌱 I’m currently pursuing electrical engineering.
+- ❤️  My skills are programming in c,c++ languages and data structure and algorithms and I am an Esports athelete.
 - 💞️ I’m looking to collaborate with IT companies and software development companies. 
-- 📫 How to reach me on my gmail account- gamingrayuga@gmail.com
+- 📫 You can reach me through my gmail account- gamingrayuga@gmail.com
 
 <!---
 Rayuga22/Rayuga22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
