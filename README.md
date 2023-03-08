@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tejas Chaudhari
-- 👀 I’m interested in computer programming languages,game devlopment,app development,web development and solidity. 
-- 🌱 I’m currently pursuing electrical engineering.
-- ❤️  My skills are programming in c,c++ languages and data structure and algorithms and I am an Esports athelete.
-- 💞️ I’m looking to collaborate with IT companies and software development companies. 
+- 👀 I’m interested in Computer Programming languages , Game Devlopment , App Development , Web Development and Solidity. 
+- 🌱 I’m currently pursuing Electrical Engineering.
+- ❤️  My skills are Programming in C,C++ languages and Data Structure and Algorithms and also I am an Esports Athelete.
+- 💞️ I’m looking to collaborate with IT Companies and Software Development Companies. 
 - 📫 You can reach me through my gmail account- gamingrayuga@gmail.com
 
 <!---
