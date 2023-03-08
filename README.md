@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rayuga22
+- 👋 Hi, I’m Tejas Chaudhari
 - 👀 I’m interested in computer programming languages,game devlopment,app development,web development and solidity. 
 - 🌱 I’m currently pursuing electrical engineering.
 - ❤️  My skills are programming in c,c++ languages and data structure and algorithms and I am an Esports athelete.
